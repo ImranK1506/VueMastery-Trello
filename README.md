@@ -1,4 +1,4 @@
-# watch-us-build-trello
+# Trello app with VueMastery
 
 ## Project setup
 ```
