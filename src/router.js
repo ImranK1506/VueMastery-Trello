@@ -18,8 +18,8 @@ export default new Router({
           path: 'task/:id',
           name: 'task',
           component: Task
-        },
-      ],
-    },
-  ],
+        }
+      ]
+    }
+  ]
 })
